@@ -23,11 +23,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ringo-panda&show_icons=true&count_private=true&theme=graywhite)
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ringo-panda&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ringo-panda&layout=compact&theme=graywhite&langs_count=8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ringo-panda&theme=github-light)
 
