@@ -23,11 +23,17 @@
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ringo-panda&show_icons=true&count_private=true&theme=graywhite" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ringo-panda&theme=graywhite" height="165" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ringo-panda&show_icons=true&count_private=true&theme=graywhite)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringo-panda&layout=compact&theme=graywhite&langs_count=8" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ringo-panda&theme=graywhite)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ringo-panda&layout=compact&theme=graywhite&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ringo-panda&theme=github-light)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ringo-panda&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ringo-panda&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ringo-panda&theme=github)
+
+![Contribution Snake](https://raw.githubusercontent.com/ringo-panda/ringo-panda/output/github-contribution-grid-snake-dark.svg)
